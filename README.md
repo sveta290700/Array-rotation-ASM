@@ -1,3 +1,3 @@
 Поворот элеменов матрицы: внутренний ряд по часовой стрелке, следующий против и т.д.
-<img src="https://ibb.co/M8WmW4K" alt="Matrix"/>
-Язык: C++ + Assembler (ассемблерная вставка).
+<img src="https://i.ibb.co/4s9H9GC/1.png" alt="Matrix example"/>
+Языки программирования: C++ + Assembler (ассемблерная вставка).
